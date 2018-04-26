@@ -1,4 +1,4 @@
-# Chapter 1.3 - Steam Login Bot
+# Chapter 1.3 - Steam Idle Bot
 
 Now that you have installed Node.js and Atom, we can start coding
 
