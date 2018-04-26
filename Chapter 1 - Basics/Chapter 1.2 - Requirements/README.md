@@ -1,4 +1,4 @@
-# Chapter 1.2 - Prerequisites
+# Chapter 1.2 - Requirements
 
 Before you start coding, make sure to install the following:
 
