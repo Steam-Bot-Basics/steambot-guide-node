@@ -1,4 +1,4 @@
-# Chapter 1.5 - Errors
+# Chapter 1.4 - Errors and Issues
 
 When coding a new project, I often get across errors, and it sometimes takes long to solve them but some might be fixed in just 5 minutes.
 
