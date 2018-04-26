@@ -1,6 +1,6 @@
 # Burn1ng Br1ght's Guide to Steam Bots
 
-A complete guide to building Steam bots using Node.js.
+A complete guide how to use node.js with Steam to make Steam bots and websites.
 
 ## Table of Contents
 
